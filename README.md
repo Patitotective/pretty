@@ -10,7 +10,7 @@ This library has no dependencies other than the Nim standard library.
 
 This is a rewrite of the now deprecated [print](https://github.com/treeform/print).
 
-> **NOTE:** This fork of treeform/print solves various unsolved issues in the original repository. It is a temporary solution until the original repository accepts all the pull requests.
+> **NOTE:** This fork of treeform/print solves various unsolved issues in the original repository. It is a temporary solution until the original owner accepts all the pull requests.
 
 ## About
 
