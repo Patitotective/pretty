@@ -452,7 +452,7 @@ template print*(n: varargs[untyped]): untyped =
       else:
         debugEcho prettyString(prettyWalk(n))
     except:
-      discard
+      raise
 
 type TableStyle* = enum
   Fancy
