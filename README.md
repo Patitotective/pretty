@@ -10,6 +10,8 @@ This library has no dependencies other than the Nim standard library.
 
 This is a rewrite of the now deprecated [print](https://github.com/treeform/print).
 
+> **NOTE:** This fork of treeform/print solves various unsolved issues in the original repository. It is a temporary solution until the original repository accepts all the pull requests.
+
 ## About
 
 Pretty is a powerful and versatile pretty printer library for Nim that allows you to print and display Nim types in a visually appealing and easy-to-read format. With Pretty, you can print your data structures with syntax highlighting, smart indentation, and support for various data types such as tables, sets, JSON, and even procs. It is designed to help you debug and understand your code more efficiently.
